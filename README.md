@@ -1,3 +1,5 @@
+[![Discord](https://discord.c99.nl/widget/theme-4/902097220306878496.png)](http://discord.com/users/902097220306878496)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minjaegt&show_icons=false)  
 
 	
