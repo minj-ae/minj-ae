@@ -3,7 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minjaegt&show_icons=false)  
 
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMunji-Kim&count_bg=%238A8A8A&title_bg=%23470000&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjaegt&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 <!--
 **Munji-Kim/Munji-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
