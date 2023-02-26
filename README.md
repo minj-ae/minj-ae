@@ -1,8 +1,8 @@
-<p align="center"> Welcome!🤗 </p>
+<p align="center"> <b> Welcome!🤗 </b> </p>
 
 <p align="center"> <img alt="discord" src="https://discord.c99.nl/widget/theme-4/902097220306878496.png"> </p>
 
-<p align="center"> I'm using </p>
+<p align="center"> <b> I'm using </b> </p>
 <p align="center"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> </p>
 
 <p align="center"> <img alt="stat1" src="https://github-readme-stats.vercel.app/api?username=minjaegt&show_icons=true&theme=radical"> <img alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjaegt&layout=compact&theme=radical"/> </p>
