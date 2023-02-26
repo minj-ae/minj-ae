@@ -1,6 +1,6 @@
 <p align="center"> Welcome!🤗 </p>
 
-<p align="center"> <img width="700" height="150" src="https://discord.c99.nl/widget/theme-4/902097220306878496.png"> </p>
+<p align="center"> <img alt="discord" src="https://discord.c99.nl/widget/theme-4/902097220306878496.png"> </p>
 
 <p align="center"> I'm using </p>
 <p align="center"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> </p>
