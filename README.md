@@ -5,7 +5,7 @@
 ### I'm using 
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minjaegt&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minjaegt&show_icons=true&theme=radical) ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minjaegt&layout=compact&theme=radical)
 
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjaegt&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
