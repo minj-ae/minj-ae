@@ -39,6 +39,8 @@
 ![express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 
+![XAMPP](https://img.shields.io/static/v1?style=plastic&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
+
 ![github](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
