@@ -2,7 +2,7 @@
 
 <p align="center"> <img alt="discord" src="https://discord.c99.nl/widget/theme-4/902097220306878496.png"> </p>
 
-<p align="center"> <b> I can use.. </b> </p>
+<p align="center"> <b> I can use... </b> </p>
 <p align="center"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img 
 alt="javascript" src="https://img.shields.io/badge/Javascirpt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://t.ly/Sx7AJ"> </p>
 
