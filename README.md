@@ -25,7 +25,7 @@
 ![express](https://img.shields.io/badge/express-000000?style=plastic&logo=express&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=white)
 
-![github](https://img.shields.io/badge/github-181717?style=plasticlogo=github&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white)
 
 ---
