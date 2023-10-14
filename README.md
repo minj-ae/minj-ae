@@ -12,7 +12,7 @@
 
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=plastic&logo=C&logoColor=white)
-![script](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu_bash&logoColor=white)
+![script](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)
 
 ![html5](https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white)
