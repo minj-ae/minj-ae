@@ -48,8 +48,8 @@
 
 ---
 
-![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjaegt&theme=github_dark)
+![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minj-ae&theme=github_dark)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjaegt&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj-ae&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)
 
 </div>
