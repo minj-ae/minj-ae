@@ -7,8 +7,14 @@
 **I can use...**
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=social&logo=windows)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=social)
 ![macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
+
+![alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=social&logo=alpine-linux)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=social)
+![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=social&logo=kali-linux)
+
+![android](https://img.shields.io/badge/Android-3DDC84?style=social&logo=android)
+![ios](https://img.shields.io/badge/iOS-000000?style=social&logo=apple)
 
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=plastic&logo=C&logoColor=white)
