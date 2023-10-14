@@ -4,6 +4,11 @@
 
 ![discord](https://discord.c99.nl/widget/theme-4/902097220306878496.png)
 
+**I am using...**
+
+![mac](https://img.shields.io/badge/Apple%20Silicon-333333?style=flat&logo=apple)
+![mac2](https://img.shields.io/badge/Apple%20Intel-333444?style=flat&logo=apple)
+
 **I can use...**
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=social&logo=windows)
@@ -12,6 +17,7 @@
 ![alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=social&logo=alpine-linux)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=social)
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=social&logo=kali-linux)
+![redhat](https://img.shields.io/badge/Red%20Hat-EE0000?style=social&logo=redhat)
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=social&logo=android)
 ![ios](https://img.shields.io/badge/iOS-000000?style=social&logo=apple)
@@ -36,7 +42,7 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minjaegt&layout=compact&theme=radical)
+![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjaegt&theme=github_dark)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjaegt&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)
 
