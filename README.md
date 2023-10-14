@@ -26,6 +26,8 @@
 ![C](https://img.shields.io/badge/C-000000?style=plastic&logo=C&logoColor=white)
 ![script](https://img.shields.io/badge/Batch-121011?style=plastic&logo=windowsterminal&logoColor=white)
 
+![CML](https://img.shields.io/badge/Cisco_Modeling_Labs-049FD9?style=plastic&logo=cisco&logoColor=white)
+
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=white)
