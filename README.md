@@ -1,4 +1,4 @@
-<p align="center"> <b> Welcome!🤗 </b> </p>
+<h2 align="center"> Welcome! 🤗 <br> </h2>
 
 <p align="center"> <img alt="discord" src="https://discord.c99.nl/widget/theme-4/902097220306878496.png"> </p>
 
