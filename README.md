@@ -8,12 +8,13 @@
 <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=social"/> 
 <img alt="macos" src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"/>
 </p>
-<p align="center"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img alt="javascript" src="https://img.shields.io/badge/Javascirpt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://t.ly/Sx7AJ"> </p>
-
-<p align="center"> <img alt="stat1" src="https://github-readme-stats.vercel.app/api?username=minjaegt&show_icons=true&theme=radical"> <img alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjaegt&layout=compact&theme=radical"/> </p>
+<p align="center"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-000000?style=plastic&logo=C&logoColor=white"> <img alt="javascript" src="https://img.shields.io/badge/Javascirpt-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=white"/> </p>
+<br>
+<br>
+<p align="center"> <img alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjaegt&layout=compact&theme=radical"/> </p>
 
 	
-<p align="end"> <img alt="python" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjaegt&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false"/> </p>
+<p align="end"> <img alt="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjaegt&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false"/> </p>
 	
 <!--
 **Munji-Kim/Munji-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
