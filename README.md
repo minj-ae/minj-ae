@@ -44,8 +44,6 @@
 ![github](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
-![Minecraft](https://img.shields.io/static/v1?style=plastic&message=Minecraft%20Server%20Management&color=62B47A&logo=Minecraft&logoColor=FFFFFF&label=)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minj-ae&layout=compact&theme=github_dark)
 
 ---
