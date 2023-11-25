@@ -2,9 +2,7 @@
 
 # 🤗 Welcome! 🤗
 
-![discord](https://discord.c99.nl/widget/theme-4/902097220306878496.png)
-
-**I am using...**
+**My Environment**
 
 ![mac](https://img.shields.io/badge/Apple%20Silicon-333333?style=flat&logo=apple)
 ![mac2](https://img.shields.io/badge/Apple%20Intel-333444?style=flat&logo=apple)
