@@ -26,12 +26,10 @@
 ![github](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minj-ae&layout=compact&theme=github_dark)
-
 ---
 
-<!-- Hits Counter -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minj-ae&layout=compact&theme=github_dark)
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj-ae&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)
 
 </div>
