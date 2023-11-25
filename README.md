@@ -30,6 +30,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minj-ae&layout=compact&theme=github_dark)
 
+</div>
+<div align="end">
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj-ae&count_bg=%23831212&title_bg=%23555555&icon=&icon_color=%23660000&title=Hits&edge_flat=false)
 
 </div>
+
