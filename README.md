@@ -18,7 +18,7 @@
     { "name": "Python", "percent": 90 },
     { "name": "C", "percent": 10 }
   ],
-  "team" : "Sunrin Internet High School, KEEEP.NET, Snoo.py Security",
+  "team" : ["Sunrin Internet High School", "KEEEP.NET", "Snoo.py Security"],
 }
 ```
 ---
