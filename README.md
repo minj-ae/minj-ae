@@ -2,16 +2,23 @@
 
 # 🤗 Welcome! 🤗
 
-**My Environment**
+---
 
-![mac](https://img.shields.io/badge/Apple%20Silicon-333333?style=flat&logo=apple)
-![mac2](https://img.shields.io/badge/Apple%20Intel-333444?style=flat&logo=apple)
-
-**I can use...**
-
-![python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=plastic&logo=C&logoColor=white)
-
+```json
+{
+  "name": "Minjae Kim",
+  "nickname": "LegacyObj",
+  "birthYear": 2007,
+  "environment": ["Apple Silicon Mac", "Intel x86_64"],
+  "techStack": ["Python", "C", "MySQL", "Legacy Network"],
+  "locale": "ko-KR, Korea",
+  "preferLanguages": [
+    { "name": "Python", "percent": 90 },
+    { "name": "C", "percent": 10 }
+  ],
+  "team" : "Sunrin Internet High School, KEEEP.NET, Snoo.py Security",
+}
+```
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minj-ae&layout=compact&theme=github_dark)
