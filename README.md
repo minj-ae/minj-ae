@@ -12,12 +12,7 @@
   "nickname": "LegacyObj",
   "birthYear": 2007,
   "environment": ["Apple Silicon Mac", "Intel x86_64"],
-  "techStack": ["Python", "C", "MySQL", "Legacy Network"],
-  "locale": "ko-KR, Korea",
-  "preferLanguages": [
-    { "name": "Python", "percent": 90 },
-    { "name": "C", "percent": 10 }
-  ],
+  "locale": "ko-KR,
   "team" : ["Sunrin Internet High School", "KEEEP.NET", "Snoo.py Security"],
 }
 ```
