@@ -12,7 +12,7 @@
   "nickname": "LegacyObj",
   "birthYear": 2007,
   "environment": ["Apple Silicon Mac", "Intel x86_64"],
-  "locale": "ko-KR,
+  "locale": "ko-KR",
   "team" : ["Sunrin Internet High School", "KEEEP.NET", "Snoo.py Security"],
 }
 ```
